@@ -10,8 +10,8 @@
 |------|----------|----------|---------------|
 | 前言 | 项目缘起、背景及学习建议 | ✅ 已完成 | [前言笔记](docs/task1-2.md) |
 | 第一章 | NLP 基础概念（发展历程、任务分类、文本表示演进） | ✅ 已完成 | [NLP基础笔记](docs/task1-2.md) |
-| 第二章 | Transformer 架构（注意力机制、Encoder-Decoder、手动搭建） | ⏳ 进行中 | [Transformer架构笔记](docs/task3-5.md) |
-| 第三章 | 预训练语言模型（Encoder-only/Decoder-only 等架构对比） | ☐ 未开始 | - |
+| 第二章 | Transformer 架构（注意力机制、Encoder-Decoder、手动搭建） | ✅ 已完成 | [Transformer架构笔记](docs/task3-5.md) |
+| 第三章 | 预训练语言模型（Encoder-only/Decoder-only 等架构对比） | ⏳ 进行中 | [预训练语言模型笔记](docs/task6-8.md) |
 | 第四章 | 大语言模型（LLM 定义、训练策略、涌现能力） | ☐ 未开始 | - |
 | 第五章 | 动手搭建大模型（实现 LLaMA2、训练 Tokenizer、预训练小型 LLM） | ☐ 未开始 | - |
 | 第六章 | 大模型训练实践（预训练、SFT、LoRA/QLoRA 高效微调） | ☐ 未开始 | - |
